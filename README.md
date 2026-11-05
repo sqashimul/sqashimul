@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **SQA Related Query**
 
-- 📫 How to reach me **thshimulbd@gmail.com**
+- 📫 How to reach me **thshimulbd@gmail.com & https://www.linkedin.com/in/thshimul/**
 
 - ⚡ Fun fact **Don't be Lazy**
 
