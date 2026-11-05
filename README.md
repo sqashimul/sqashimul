@@ -1,5 +1,3 @@
-# Tanzimul-Haque-Shimul
-
 <h1 align="center">Hi 👋, I'm Tanzimul Haque Shimul</h1>
 <h3 align="center">Software Quality Assurance Automation Engineer & Business Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
