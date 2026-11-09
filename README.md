@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanzimul Haque Shimul</h1>
 <h3 align="center">Software Quality Assurance Engineer & AI Engineer</h3>
+
 - 📫 How to reach me **thshimulbd@gmail.com & https://www.linkedin.com/in/thshimul/**
 - ⚡ Fun fact **Don't be Lazy**
 <h3 align="left">Connect with me:</h3>
