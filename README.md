@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanzimul Haque Shimul</h1>
-<h3 align="center">Software Quality Assurance Automation Engineer & Business Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sqashimul&label=Profile%20views&color=0e75b6&style=flat" alt="sqashimul" /> </p>
+<h3 align="center">Software Quality Assurance Engineer & AI Engineer</h3>
 
 - 💬 Ask me about **SQA Related Query**
-
 - 📫 How to reach me **thshimulbd@gmail.com & https://www.linkedin.com/in/thshimul/**
 
 - ⚡ Fun fact **Don't be Lazy**
